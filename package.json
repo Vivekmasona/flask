@@ -1,0 +1,5 @@
+"dependencies": {
+  "next": "latest",
+  "yt-dlp-exec": "latest",
+  "typescript": "latest"
+}
