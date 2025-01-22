@@ -1,15 +1,12 @@
 {
-  "name": "flask",
+  "name": "your-project-name",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "next build",
-    "start": "next start"
+    "start": "node index.js"
   },
   "dependencies": {
-    "next": "latest",
-    "yt-dlp-exec": "latest",
-    "typescript": "latest"
-  },
-  "devDependencies": {}
+    "express": "latest",
+    "ytdl-core": "latest"
+  }
 }
