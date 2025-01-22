@@ -1,20 +1,2 @@
-{
-  "name": "instagram-video-extractor",
-  "version": "1.0.0",
-  "description": "A Node.js app to extract Instagram video URLs",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.17.1",
-    "puppeteer": "^19.0.0"
-  },
-  "engines": {
-    "node": "16.x"
-  },
-  "devDependencies": {},
-  "author": "",
-  "license": "ISC"
-}
+"puppeteer": "19.0.0",
+"puppeteer-core": "19.0.0"
