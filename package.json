@@ -1,5 +1,15 @@
-"dependencies": {
-  "next": "latest",
-  "yt-dlp-exec": "latest",
-  "typescript": "latest"
+{
+  "name": "flask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "yt-dlp-exec": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {}
 }
