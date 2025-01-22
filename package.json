@@ -1,12 +1,20 @@
 {
-  "name": "your-project-name",
+  "name": "instagram-video-extractor",
   "version": "1.0.0",
+  "description": "A Node.js app to extract Instagram video URLs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "dependencies": {
-    "express": "latest",
-    "ytdl-core": "latest"
-  }
+    "express": "^4.17.1",
+    "puppeteer": "^19.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
