@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/instagram",
+      "src": "/extract",
       "dest": "/index.js"
     }
   ]
